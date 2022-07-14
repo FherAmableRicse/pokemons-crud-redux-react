@@ -11,7 +11,7 @@ const PokemonsLayout = () => {
   const { loading, error } = useSelector(state => state.pokemons);
   const dispatch = useDispatch();
 
-  const applicationName = "PokémonsCRUD";
+  const applicationName = "PokemonsCRUD";
 
   const credits = {
     year: new Date().getFullYear(),
