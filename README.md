@@ -3,7 +3,7 @@
 [![Citas React](https://i.postimg.cc/RCLW4GKs/pokemons.png)](https://pokemons-r.netlify.app/pokemons)
 
 ## 📜 Resumen 📜
-Adminstrador de Pokemones.
+Adminstrador de Pokemon's.
 
 ## 💻 Instalación 💻
 - Ubicarse en la carpeta que contendrá el proyecto
